@@ -1,2 +1,3 @@
 I am Sam and I like ham
 This is our first commit
+Editing it for the first time.
